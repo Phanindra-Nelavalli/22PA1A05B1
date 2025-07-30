@@ -1,3 +1,4 @@
 **/.env
 /backend-test-submission/node_modules/
 /logging-middleware/node_modules/
+/frontend-test-submission/node_modules/
